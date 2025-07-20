@@ -7,4 +7,4 @@ this repo is about documentation
 describe how one can can replicate this project
 
 ## How to run
-simply downlod from this link [Link Here]
+simply downlod from this link (https://proj.com)[Link Here]
